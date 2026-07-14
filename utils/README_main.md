@@ -4,9 +4,9 @@
   <img src="utils/viewer.jpg" alt="viewer" width="768" />
 </p>
 
-### `main_[dataset].py
+### main_[dataset].py
 
-**Available dataset** : "cheickna", "yagmur", "chris", "suwannee" 
+**Available dataset** : "anderau", "diawara", "ganguillet", "nelva", "turgay" 
 
 1) Extract images using dedicated **`extract scripts`** stored at :  
     - `.../main_[dataset]/extract_[dataset].py`

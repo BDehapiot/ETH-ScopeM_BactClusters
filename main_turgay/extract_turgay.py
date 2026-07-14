@@ -18,7 +18,7 @@ from skimage.feature import match_template
 #%% Inputs --------------------------------------------------------------------
 
 # Path(s)
-dataset = "yagmur"
+dataset = "turgay"
 # data_path = Path(rf"C:\Users\bdeha\Projects\local\local_Diawara\data_{dataset}")
 # data_path = Path(f"D:\local_Diawara\data_{dataset}")
 data_path = Path(f"D:\local_Diawara\data_{dataset}")

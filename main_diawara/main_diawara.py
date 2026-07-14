@@ -8,7 +8,7 @@ from display import Display
 
 #%% Inputs --------------------------------------------------------------------
 
-dataset = "cheickna"
+dataset = "diawara"
 
 # Procedure
 procedure = {
